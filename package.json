@@ -1,0 +1,13 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "'# Hello VuePress' \r [iletisim](./iletisim.md)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev ",
+    "build": "vuepress build "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
